@@ -1,4 +1,4 @@
-# ORM-HW
+# nosql-social-network-api
 
 
 ## Description
