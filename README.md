@@ -34,18 +34,14 @@ https://drive.google.com/file/d/1upIQltaLqXRlHKRU1NMrNDBX0LR3Nt4d/view?usp=shari
    
     "express"
     "mongoose"
- - source schema and npm run - "node seeds/index.js" - to run seed data
+ - start mongoose
  - npm start
   
 
 ## Installation 
-- node.js
-- Sequelize
-- dotenv
-- mysql2
-  
+- mongoose
+- express
 
-## Screenshot 
 
 
 
