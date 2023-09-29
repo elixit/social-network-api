@@ -34,7 +34,7 @@ const userController = {
         if (!dbUserData) {
           return res
             .status(404)
-            .json({ message: "No user found with this id!" });
+            .json({ message: "Not found" });
         }
         res.json(dbUserData);
       })
