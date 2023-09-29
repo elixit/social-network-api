@@ -31,14 +31,9 @@ https://drive.google.com/file/d/1upIQltaLqXRlHKRU1NMrNDBX0LR3Nt4d/view?usp=shari
 
 ## Usage
  - imported node modules:
-    "bcrypt": "^5.0.1",
-    "connect-session-sequelize": "^7.1.3",
-    "dotenv": "^16.0.0",
-    "express": "^4.18.1",
-    "express-handlebars": "^6.0.5",
-    "express-session": "^1.17.2",
-    "mysql2": "^2.3.3",
-    "sequelize": "^6.19.0"
+   
+    "express"
+    "mongoose"
  - source schema and npm run - "node seeds/index.js" - to run seed data
  - npm start
   
