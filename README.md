@@ -48,7 +48,7 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 ## Functionalitylink
 
-(https://drive.google.com/file/d/1upIQltaLqXRlHKRU1NMrNDBX0LR3Nt4d/view?usp=sharing)
+https://drive.google.com/file/d/1upIQltaLqXRlHKRU1NMrNDBX0LR3Nt4d/view?usp=sharing
 
 
 ## Usage
